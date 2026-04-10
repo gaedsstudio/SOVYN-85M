@@ -206,6 +206,8 @@ Apache-2.0
 - **HuggingFace**: [SOVYN/SOVYN-85M](https://huggingface.co/SOVYN/SOVYN-85M)
 - **GitHub**: [gaedsstudio/SOVYN-85M](https://github.com/gaedsstudio/SOVYN-85M)
 
+- 생성형 Ai를 데이터 학습과 git push등에 사용했음을 고지합니다 
+
 ---
 
 *SOVYN (Solve + Synapse) — 문제 해결과 신경 연결의 합성어*
